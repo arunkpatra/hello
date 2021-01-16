@@ -2,4 +2,4 @@ module hello
 
 go 1.15
 
-require github.com/arunkpatra/greetings v1.0.4
+require github.com/arunkpatra/greetings v1.0.5
